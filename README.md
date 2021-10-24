@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **Java and Python**
+- 🌱 I’m currently learning **Java and JavaScript**
 
 - 📫 How to reach me **beytullahzor7@gmail.com**
 
